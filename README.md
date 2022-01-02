@@ -1,1 +1,1 @@
-# GitBasics
+# Mathesis
